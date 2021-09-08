@@ -1,0 +1,15 @@
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.exe
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.deps.json
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.runtimeconfig.json
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.runtimeconfig.dev.json
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.dll
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\bin\Debug\netcoreapp3.1\MD5 Encryption.pdb
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.csproj.AssemblyReference.cache
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5_Encryption.Form1.resources
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.csproj.GenerateResource.cache
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.AssemblyInfoInputs.cache
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.AssemblyInfo.cs
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.csproj.CoreCompileInputs.cache
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.dll
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.pdb
+C:\Users\putra\source\repos\MD5 Encryption\MD5 Encryption\obj\Debug\netcoreapp3.1\MD5 Encryption.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\bin\Debug\Triple DES Encryption.exe.config
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\bin\Debug\Triple DES Encryption.exe
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\bin\Debug\Triple DES Encryption.pdb
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple DES Encryption.csproj.AssemblyReference.cache
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple_DES_Encryption.Form1.resources
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple_DES_Encryption.Properties.Resources.resources
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple DES Encryption.csproj.GenerateResource.cache
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple DES Encryption.csproj.CoreCompileInputs.cache
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple DES Encryption.exe
+C:\Users\putra\source\repos\Triple DES Encryption\Triple DES Encryption\obj\Debug\Triple DES Encryption.pdb
